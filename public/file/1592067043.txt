@@ -1,0 +1,6 @@
+send message in database two type  0 and 1 
+
+0 is show in left side 
+1 show in right side 
+
+

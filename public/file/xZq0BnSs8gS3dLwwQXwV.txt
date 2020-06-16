@@ -1,0 +1,6 @@
+laravel with vuejs
+1-image 
+2-single items show by id 
+3-middleware
+4-slider
+5-real time search
